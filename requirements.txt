@@ -2,3 +2,7 @@ streamlit
 pillow==10.0.0
 numpy==1.26.4
 --only-binary=:all:
+google-generativeai
+python-dotenv
+
+
